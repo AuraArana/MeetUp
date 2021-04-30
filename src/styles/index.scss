@@ -1,3 +1,41 @@
 /* 
     General Styles
 */
+.center {
+  line-height: 300px;
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  background:lightgray;
+}
+
+.center2 {
+ 
+  border: 1px solid #fff;
+  text-align: center;
+  width: 80%;
+  height: 100px;
+  background: grey;
+}
+
+.center3 {
+  border: 1px solid #fff;
+  text-align: center;
+  width: 100%;
+  background: lightgray;
+}
+.centerdiv {
+  border: 1px solid #fff;
+  background: lightgray;
+  width: 80%;
+   text-align: center;
+}
+.centerevents {
+  line-height: 300px;
+  padding: 50px 0;
+  border: 1px solid #fff;
+  text-align: center;
+  width: 100%;
+  height: 400px;
+  background:lightgrey;
+}
